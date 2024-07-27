@@ -7,7 +7,7 @@
 
 ### Решение 1
 
-![Скрин](https://github.com/garrkiss/sql2/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.png)
+![Скрин](https://github.com/garrkiss/index/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.png)
 
 ### Задание 2
 ### Что нужно сделать:
